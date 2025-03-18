@@ -13,4 +13,7 @@ This project aims to use **Power BI** to visualize which **personal attributes a
 **OTHER VISUALS:** Other visuals display the **total number of customers** and the **subscription rate for each customer segment**, dynamically adjusting based on the selected filters.
 
 >### Dashboard
+The dashboard below shows 43 clients with personal loans subscribed to the term deposit, which resulted in a 6.22% subscription rate, calculated as the percentage of all contacted clients with personal loans.
+
+
 ![alt text](https://github.com/j4redj0el/Bank_Subscription_Analysis-/blob/main/BankDashboard_Marketing_PersonalLoan.jpg)
