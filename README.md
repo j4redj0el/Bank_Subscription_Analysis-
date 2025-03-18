@@ -13,4 +13,4 @@ This project aims to use **Power BI** to visualize which **personal attributes a
 **OTHER VISUALS:** Other visuals display the **total number of customers** and the **subscription rate for each customer segment**, dynamically adjusting based on the selected filters.
 
 >### Dashboard
-![alt text]()
+![alt text](https://github.com/j4redj0el/Bank_Subscription_Analysis-/blob/main/BankDashboard_Marketing_PersonalLoan.jpg)
