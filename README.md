@@ -12,4 +12,4 @@ This project aims to use **Power BI** to visualize which **personal attributes a
 
 **OTHER VISUALS:** Other visuals display the **total number of customers** and the **subscription rate for each customer segment**, adjusting based on the selected filters.
 
-![cover]([https://github.com/j4redj0el/FPLPowerBI/blob/main/FPLPlayer_identifier.jpg](https://github.com/j4redj0el/FPLPowerBI/blob/main/README.md?plain=1))
+![cover]([https://github.com/j4redj0el/FPLPowerBI/blob/main/FPLPlayer_identifier.jpg](https://github.com/j4redj0el/FPLPowerBI/blob/main/README.md?plain=1)](https://github.com/j4redj0el/Bank_Subscription_Analysis-/blob/main/Bank%20Sub%20Analysis%20Cover.jpg))
