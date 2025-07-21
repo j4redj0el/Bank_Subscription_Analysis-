@@ -11,3 +11,5 @@ This project aims to use **Power BI** to visualize which **personal attributes a
 **SLICERS:** To visualize the different attributes that may influence subscription decisions, the slicers provide options to filter by **personal loan status, housing loan status, loan defaults, and whether the customer successfully subscribed to the deposit**.
 
 **OTHER VISUALS:** Other visuals display the **total number of customers** and the **subscription rate for each customer segment**, adjusting based on the selected filters.
+
+![cover]([https://github.com/j4redj0el/FPLPowerBI/blob/main/FPLPlayer_identifier.jpg](https://github.com/j4redj0el/FPLPowerBI/blob/main/README.md?plain=1))
